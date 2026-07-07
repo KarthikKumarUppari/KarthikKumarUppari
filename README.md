@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/karthik-kumar-uppari-26764b374/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
   <a href="mailto:238r1a1259@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
-  <a href="https://leetcode.com/u/ukarthikkumar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" /></a>
+  <a href="https://leetcode.com/u/DU5SCztAPi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" /></a>
   <a href="https://www.codechef.com/users/ukarthikkumar"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&amp;logo=codechef&amp;logoColor=white" /></a>
   <a href="https://codeforces.com/profile/karthikkumaruppari"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&amp;logo=codeforces&amp;logoColor=white" /></a>
 </p>
@@ -114,7 +114,7 @@ Restaurant browsing and ordering platform with real-time order tracking.
 |---|---|
 | 📧 Email | [238r1a1259@gmail.com](mailto:238r1a1259@gmail.com) |
 | 💼 LinkedIn | [karthik-kumar-uppari](https://www.linkedin.com/in/karthik-kumar-uppari-26764b374/) |
-| 🧩 LeetCode | [ukarthikkumar](https://leetcode.com/u/ukarthikkumar/) |
+| 🧩 LeetCode | [ukarthikkumar](https://leetcode.com/u/DU5SCztAPi/) |
 | 🍳 CodeChef | [ukarthikkumar](https://www.codechef.com/users/ukarthikkumar) |
 | ⚔️ Codeforces | [karthikkumaruppari](https://codeforces.com/profile/karthikkumaruppari) |
 
