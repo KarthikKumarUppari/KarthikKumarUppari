@@ -1,14 +1,18 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Karthik%20Kumar%20Uppari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=200&amp;color=0:0f2027,50:203a43,100:2c5364&amp;section=header&amp;text=Karthik%20Kumar%20Uppari&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=Software%20Engineer%20%7C%20AI-ML%20and%20Full-Stack%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karthik-kumar-uppari-26764b374/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:238r1a1259@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/DU5SCztAPi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/ukarthikkumar"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/karthikkumaruppari"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=2A9DF4&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+AI-Powered+Products;Generative+AI+%2B+Multi-Agent+Systems;Full-Stack+Developer+%7C+MERN;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthik-kumar-uppari-26764b374/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="mailto:238r1a1259@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ukarthikkumar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/ukarthikkumar"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&amp;logo=codechef&amp;logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/karthikkumaruppari"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&amp;logo=codeforces&amp;logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -90,8 +94,8 @@ Restaurant browsing and ordering platform with real-time order tracking.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KarthikKumarUppari&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikKumarUppari&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KarthikKumarUppari&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=KarthikKumarUppari&amp;theme=default&amp;hide_border=true" />
 </p>
 
 ---
@@ -110,7 +114,7 @@ Restaurant browsing and ordering platform with real-time order tracking.
 |---|---|
 | 📧 Email | [238r1a1259@gmail.com](mailto:238r1a1259@gmail.com) |
 | 💼 LinkedIn | [karthik-kumar-uppari](https://www.linkedin.com/in/karthik-kumar-uppari-26764b374/) |
-| 🧩 LeetCode | [ukarthikkumar](https://leetcode.com/u/DU5SCztAPi/) |
+| 🧩 LeetCode | [ukarthikkumar](https://leetcode.com/u/ukarthikkumar/) |
 | 🍳 CodeChef | [ukarthikkumar](https://www.codechef.com/users/ukarthikkumar) |
 | ⚔️ Codeforces | [karthikkumaruppari](https://codeforces.com/profile/karthikkumaruppari) |
 
